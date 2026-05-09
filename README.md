@@ -113,7 +113,7 @@ Tables:
 ```text
 transactions.gold.sales_by_store
 ```
-![sales_by_stores](/Users/jaynitdhamanskar@gmail.com/transactions/screenshots/sales_by_stores.png)
+![sales_by_stores](https://github.com/jaynitdhamanskar/transactions/blob/main/screenshots/sales_by_stores.png)
 
 
 ```text
