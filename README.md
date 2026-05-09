@@ -12,7 +12,7 @@ The pipeline is orchestrated using Databricks Workflows.
 
 ## Project Highlights
 
-- Ingested 4 transaction datasets from Amazon S3 into Databricks Bronze layer
+- Ingested transaction datasets from Amazon S3 into Databricks Bronze layer
 - Processed 100+ transactional records through Bronze, Silver, and Gold layers
 - Implemented 5 data quality validation checks in the Silver layer
 - Built 3 SQL-based ETL transformation stages
