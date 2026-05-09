@@ -10,6 +10,18 @@ The pipeline is orchestrated using Databricks Workflows.
 
 ---
 
+## Project Highlights
+
+- Ingested 4 transaction datasets from Amazon S3 into Databricks Bronze layer
+- Processed 100+ transactional records through Bronze, Silver, and Gold layers
+- Implemented 5 data quality validation checks in the Silver layer
+- Built 3 SQL-based ETL transformation stages
+- Created 2 Gold layer business aggregation tables
+- Automated pipeline execution using Databricks Workflows
+- Standardized and validated raw transactional data using Delta tables
+
+---
+
 # Architecture
 ![Architecture](https://github.com/jaynitdhamanskar/transactions/blob/main/screenshots/architecture.png)
 
